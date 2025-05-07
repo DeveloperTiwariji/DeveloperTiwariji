@@ -39,12 +39,9 @@
 
 ## 🌐 Let's Connect
 
-<p align="center">
-  <a href="mailto:tiwarsatyam4685@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/satyam-tiwari1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/12207441"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.hackerrank.com/profile/tiwarisatyam4685"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-</p>
+- 📧 Email: [tiwarsatyam4685@gmail.com](mailto:tiwarsatyam4685@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/satyam-tiwari1](https://www.linkedin.com/in/satyam-tiwari1/)
+- 💻 GitHub: [DeveloperTiwariji](https://github.com/DeveloperTiwariji)
 
 ---
 
