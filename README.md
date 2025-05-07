@@ -37,16 +37,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/DeveloperTiwariji/DeveloperTiwariji/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</p>
-
-> To make this work, you need to enable GitHub Actions in your repo. I can guide you through it if you’d like.
-
----
-
 ## 🌐 Let's Connect
 
 <p align="center">
@@ -68,6 +58,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/DeveloperTiwariji/DeveloperTiwariji/blob/main/assets/avatar.png" width="150" alt="dev avatar" style="border-radius: 20px"/>
-</p>
+## 🏆 Coding Achievements
+
+- 🔶 **LeetCode:** [200+ problems solved](https://leetcode.com/u/12207441)
+- 🟩 **GeeksforGeeks:** [tiwarisataxy1](https://www.geeksforgeeks.org/user/tiwarisataxy1/)
+- 🔷 **HackerRank:** [tiwarisatyam4685](https://www.hackerrank.com/profile/tiwarisatyam4685)
+
+---
