@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Satyam Tiwari</h1>
 <p align="center">
-  <i>A passionate full-stack developer & AWS cloud enthusiast from India 🇮🇳</i>
+  <i>A passionate full-stack developer, DevOps & AWS cloud enthusiast from India 🇮🇳</i>
 </p>
 
 <p align="center">
@@ -34,29 +34,11 @@
 
 ---
 
-## 🧑‍💻 Projects
-
-### 🚀 DevTinder
-A Tinder-style platform for developers to match, chat, and collaborate on projects.  
-**Stack:** React, Vite, Tailwind CSS, Node.js, MongoDB, AWS, SES, Cron, Payment Gateway
-
-### 🍽️ Swiggy Clone
-A responsive single-page food delivery app with Redux-based state management.  
-**Stack:** HTML, Tailwind CSS, Bootstrap, React.js, Redux
-
----
-
 ## ☁️ AWS Summer Training
 **Gokboru Pvt. Ltd. | May 2024 – June 2024**  
 - Deployed AWS EC2, S3, and Lambda  
 - Improved cloud efficiency by 30%, reduced costs by 40%  
 - Hands-on with serverless and storage solutions
-
----
-
-## 📜 Certifications
-- 🏆 AWS Cloud Computing – *Gokboru*  
-- 🥇 Cloud Hack-a-Throne 1.0 – *AIESEC*
 
 ---
 
