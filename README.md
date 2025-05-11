@@ -36,6 +36,22 @@
 
 ---
 
+## ✨ Developer Wisdom
+
+> 💬 *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”*  
+> — **Martin Fowler**
+
+> 💬 *“Programs must be written for people to read, and only incidentally for machines to execute.”*  
+> — **Harold Abelson**
+
+> 💬 *“First, solve the problem. Then, write the code.”*  
+> — **John Johnson**
+
+> 💬 *“The best error message is the one that never shows up.”*  
+> — **Thomas Fuchs**
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -53,6 +69,16 @@
 
 ---
 
+## 💼 Featured Projects
+
+- 🧮 [**Typing Speed Calculator**](https://github.com/DeveloperTiwariji/TYPING-SPEED-CALCULATOR) – Core Python project to measure typing speed
+- 🧠 [**NetflixGPT**](https://github.com/DeveloperTiwariji/NetflixGPT) – JavaScript-based AI movie recommender
+- 🎮 [**Tic-Tac-Toe Game**](https://github.com/DeveloperTiwariji/Tic-Tac-Toe-Game) – A fun classic game built with JavaScript
+- ⚙️ [**Jenkins-Zero-To-Hero**](https://github.com/DeveloperTiwariji/Jenkins-Zero-To-Hero) – Dockerized CI/CD using Jenkins
+- 🌐 [**SimpleWebPage**](https://github.com/DeveloperTiwariji/SimpleWebPage) – A basic responsive HTML website
+
+---
+
 ## 📬 Connect with Me
 
 <p align="center">
@@ -63,19 +89,6 @@
 
 ---
 
-## 💼 Featured Projects
-
-Here are some of my highlighted repositories:
-
-- 🧮 [**Typing Speed Calculator**](https://github.com/DeveloperTiwariji/TYPING-SPEED-CALCULATOR) – Core Python project to measure typing speed
-- 🧠 [**NetflixGPT**](https://github.com/DeveloperTiwariji/NetflixGPT) – JavaScript-based AI movie recommender
-- 🎮 [**Tic-Tac-Toe Game**](https://github.com/DeveloperTiwariji/Tic-Tac-Toe-Game) – A fun classic game built with JavaScript
-- ⚙️ [**Jenkins-Zero-To-Hero**](https://github.com/DeveloperTiwariji/Jenkins-Zero-To-Hero) – Dockerized CI/CD using Jenkins
-- 🌐 [**SimpleWebPage**](https://github.com/DeveloperTiwariji/SimpleWebPage) – A basic responsive HTML website
-
----
-
 <p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em>
+  <em>"Building solutions, one line at a time."</em>
 </p>
-
