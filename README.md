@@ -63,8 +63,8 @@
 
 ## 🏆 Coding Profiles
 
-- 🔶 **LeetCode:** [200+ Problems Solved](https://leetcode.com/u/12207441)
-- 🟩 **GeeksforGeeks:** [tiwarisataxy1](https://www.geeksforgeeks.org/user/tiwarisataxy1/)
+- 🔶 **LeetCode:** [350+ Problems Solved in Java](https://leetcode.com/u/12207441)
+- 🟩 **GeeksforGeeks:** [250+ Problems Solved in Java](https://www.geeksforgeeks.org/user/tiwarisataxy1/)
 - 🔷 **HackerRank:** [tiwarisatyam4685](https://www.hackerrank.com/profile/tiwarisatyam4685)
 
 ---
